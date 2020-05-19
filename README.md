@@ -1,4 +1,4 @@
-### Note: Since @OzNome has discontinued maintenance of [pidsvc-docker](https://github.com/oznome/pidsvc-docker), work on this service as well as associated automation tools has been moved to https://github.com/internetofwater/IoW-PIDsvc
+### Note: Since @oznome has discontinued maintenance of [pidsvc-docker](https://github.com/oznome/pidsvc-docker), work on this service as well as associated automation tools has been moved to https://github.com/internetofwater/IoW-PIDsvc
 
 # Persistent Identifier Service (PID Service)
 This is a deployment system using docker for the PIDsvc developed by CSIRO. https://www.seegrid.csiro.au/wiki/Siss/PIDService#Prerequisites
